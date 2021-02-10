@@ -1,6 +1,6 @@
 # Hello .........    
      # Cydia Repo hello
-          # Cydia repository heloo
+          # Cydia repository hello
                # Đây là repo của QiaoweidE ngoan nhất nhà và đẹp trai nhất xóm :))) Add this url to Cydia sources to use my repository: 🍏
 
 [Add Cydia :)](cydia://url/https://cydia.saurik.com/api/share#?source=https://QiaoweidE.github.io/k2d/) [🍏](https://QiaoweidE.github.io/k2d/)
